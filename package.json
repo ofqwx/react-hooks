@@ -1,0 +1,10 @@
+{
+  "name": "@ofqwx/hooks",
+  "version": "0.0.1",
+  "workspaces": ["@ofqwx/use-toggle"],
+  "description": "React hooks that I've used to use in my projects",
+  "main": "index.js",
+  "repository": "https://github.com/ofqwx/react-hooks",
+  "author": "Antonio Aznarez <antonio@aznarez.com.ar>",
+  "license": "UNLICENCED\t"
+}

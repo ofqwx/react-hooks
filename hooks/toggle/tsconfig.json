@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "lib": ["es6"],
+    "declaration": true,
+    "esModuleInterop": true,
+    "outDir": "build",
+    "types" : ["react", "jest"]
+  },
+  "include": ["source"]
+}
