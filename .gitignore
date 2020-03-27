@@ -1,4 +1,4 @@
 node_modules/
 build
-hooks/**/package
-hooks/**/node_modules
+hooks/**/package/
+hooks/**/node_modules/
