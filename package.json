@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "private": true,
   "workspaces": ["hooks/*"],
-  "description": "React hooks that I've used to use in my projects",
+  "description": "Daily hooks",
   "main": "index.js",
   "repository": "https://github.com/ofqwx/react-hooks",
   "author": "Antonio Aznarez <antonio@aznarez.com.ar>",
