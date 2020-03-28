@@ -1,8 +1,8 @@
 {
-  "name": "@ofqwx/hooks",
+  "name": "@ofqwx/react-hooks",
   "version": "0.0.1",
   "private": true,
-  "workspaces": ["@ofqwx/use-toggle"],
+  "workspaces": ["hooks/*"],
   "description": "React hooks that I've used to use in my projects",
   "main": "index.js",
   "repository": "https://github.com/ofqwx/react-hooks",
