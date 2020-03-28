@@ -1,6 +1,6 @@
 {
   "name": "@ofqwx/use-toggle",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Simple boolean toggle",
   "main": "./package/bundle.js",
   "repository": "https://github.com/ofqwx/react-hooks",
