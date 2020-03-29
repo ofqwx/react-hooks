@@ -24,4 +24,4 @@ npm i --save @ofqwx/hookName
 
 ## Available hooks:
 
-- [useToggle](https://github.com/ofqwx/react-hooks/tree/master/hooks/toggle/README.md)
+- [useToggle](https://github.com/ofqwx/react-hooks/tree/master/hooks/toggle)
