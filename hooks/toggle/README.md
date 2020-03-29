@@ -11,18 +11,20 @@ yarn add @ofqwx/useToggle
 ## Example
 
 ```jsx
-import useToggle from '@ofqwx/useToggle'
+import useToggle from "@ofqwx/useToggle";
+// or from @ofqwx/react-hooks:
+// import {useToggle} from "@ofqwx/react-hooks
 
 function YourComponent() {
   const [toggled, toggle] = useToggle();
 
-  return <AnotherComponent display={toggled} onToggle={toggle} />
+  return <AnotherComponent display={toggled} onToggle={toggle} />;
 }
 ```
 
 you can also call it with optional initialiser value (default is false):
 
-```
+```js
 const [toggled, toggle] = useToggle(true);
 ```
 
