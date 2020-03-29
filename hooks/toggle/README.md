@@ -1,6 +1,6 @@
 # useToggle
 
-Simple boolean toggle.
+Simple hook that return a boolean value and a function to toggle it.
 
 ## Installation
 
