@@ -1,5 +1,5 @@
 {
-  "name": "@ofqwx/react-hooks",
+  "name": "@ofqwx/react-hooks-repo",
   "version": "0.0.1",
   "private": true,
   "workspaces": ["hooks/*"],
