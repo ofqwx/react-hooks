@@ -2,3 +2,4 @@ node_modules/
 build
 hooks/**/package/
 hooks/**/node_modules/
+**/yarn-error.log
