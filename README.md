@@ -25,3 +25,4 @@ npm i --save @ofqwx/hookName
 ## Available hooks:
 
 - [useToggle](https://github.com/ofqwx/react-hooks/tree/master/hooks/toggle)
+- [useDebounceCallback](https://github.com/ofqwx/react-hooks/tree/master/hooks/debounce-callback)
