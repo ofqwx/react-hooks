@@ -2,7 +2,7 @@ import typescript from "rollup-plugin-typescript";
 const pkg = require("./package.json");
 
 export default {
-  input: "index.ts",
+  input: "source/index.ts",
   output: [
     {
       file: pkg.module,

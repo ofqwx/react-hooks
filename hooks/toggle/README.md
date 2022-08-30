@@ -5,13 +5,13 @@ Simple hook that return a boolean value and a function to toggle it.
 ## Installation
 
 ```
-yarn add @ofqwx/useToggle
+yarn add @ofqwx/use-toggle
 ```
 
 ## Example
 
 ```jsx
-import useToggle from "@ofqwx/useToggle";
+import useToggle from "@ofqwx/use-toggle";
 // or from @ofqwx/react-hooks:
 // import {useToggle} from "@ofqwx/react-hooks
 
